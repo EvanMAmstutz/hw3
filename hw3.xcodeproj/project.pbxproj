@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		36A9FC8B1B1F4C5B004B0ADE /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 36A9FC8A1B1F4C5B004B0ADE /* main.c */; };
+		36A9FC8B1B1F4C5B004B0ADE /* hw3.c in Sources */ = {isa = PBXBuildFile; fileRef = 36A9FC8A1B1F4C5B004B0ADE /* hw3.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		36A9FC871B1F4C5B004B0ADE /* hw3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hw3; sourceTree = BUILT_PRODUCTS_DIR; };
-		36A9FC8A1B1F4C5B004B0ADE /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		36A9FC8A1B1F4C5B004B0ADE /* hw3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = hw3.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		36A9FC891B1F4C5B004B0ADE /* hw3 */ = {
 			isa = PBXGroup;
 			children = (
-				36A9FC8A1B1F4C5B004B0ADE /* main.c */,
+				36A9FC8A1B1F4C5B004B0ADE /* hw3.c */,
 			);
 			path = hw3;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				36A9FC8B1B1F4C5B004B0ADE /* main.c in Sources */,
+				36A9FC8B1B1F4C5B004B0ADE /* hw3.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
